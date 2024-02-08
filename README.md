@@ -18,12 +18,14 @@ A login form system is what you use to enter your username or email and password
 
 # Login System Validation
 
+- Email and password not matching, name first letter should be capitalized, invalid email format (it should be "name-@-.com/net/etc") and lastly the password must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one digit, and one special character.
 ![image](https://github.com/khastunay/Login-System/assets/159407625/333355f5-ff61-43f1-b518-c72ce788e6a0)
 ![image](https://github.com/khastunay/Login-System/assets/159407625/18409642-4ce5-4a6a-8e0b-057c3287504a)
 ![image](https://github.com/khastunay/Login-System/assets/159407625/6ccfce84-1bd3-4384-9eab-842e452c4bf9)
 ![image](https://github.com/khastunay/Login-System/assets/159407625/7c91059d-3e08-4243-8567-682cb3dd7677)
 ![image](https://github.com/khastunay/Login-System/assets/159407625/e4ca1c61-405f-4aac-b025-4625ddde8f8a)
 
+P.S. 
 
 
 
