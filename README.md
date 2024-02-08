@@ -8,8 +8,10 @@ A login form system is what you use to enter your username or email and password
 ![image](https://github.com/khastunay/Login-System/assets/159407625/ba9e1540-e0b9-407f-ad1f-f331eebe45ba)
 
 # Login System Flow
-1. Let's login with the wrong email and password: ![image](https://github.com/khastunay/Login-System/assets/159407625/44b96c17-c565-45d2-9d25-6e271feb289b)
-2. Now, it says it do not match and it both textfields will reset: ![image](https://github.com/khastunay/Login-System/assets/159407625/0f3701d7-39ac-4df6-9cc0-a8487eaa935f) ![image](https://github.com/khastunay/Login-System/assets/159407625/761b3e8e-163d-4d5f-9b7e-93e36108a670)
+1. Let's login with the wrong email and password:
+ ![image](https://github.com/khastunay/Login-System/assets/159407625/44b96c17-c565-45d2-9d25-6e271feb289b)
+3. Now, it says it do not match and it both textfields will reset:
+ ![image](https://github.com/khastunay/Login-System/assets/159407625/0f3701d7-39ac-4df6-9cc0-a8487eaa935f) ![image](https://github.com/khastunay/Login-System/assets/159407625/761b3e8e-163d-4d5f-9b7e-93e36108a670)
 
 
 
