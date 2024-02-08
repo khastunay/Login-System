@@ -6,7 +6,8 @@ A login form system is what you use to enter your username or email and password
 ![image](https://github.com/khastunay/Login-System/assets/159407625/e4cb7e98-ad1b-4ed8-8661-57898bdaee2b)
 ![image](https://github.com/khastunay/Login-System/assets/159407625/33b98922-a5cd-4584-872a-87b52010a858)
 ![image](https://github.com/khastunay/Login-System/assets/159407625/ba9e1540-e0b9-407f-ad1f-f331eebe45ba)
-![image](https://github.com/khastunay/Login-System/assets/159407625/1ade5b3d-c48e-4f09-84b5-f458542aea4f)
+![image](https://github.com/khastunay/Login-System/assets/159407625/bde2a6e6-84cb-45ec-a4ca-a24b4e82f677)
+
 
 
 # Login System Flow
@@ -28,8 +29,8 @@ A login form system is what you use to enter your username or email and password
 ![image](https://github.com/khastunay/Login-System/assets/159407625/e4ca1c61-405f-4aac-b025-4625ddde8f8a)
 
 P.S. 
-
-
+- LoginForm is the program file and we must use netbeans to run it.
+- loginform is the database file where phpmyAdmin is what I used in making the database: it consists of database name: loginform, table name: useraccount and the columns which are id, email and password.
 
 
 
